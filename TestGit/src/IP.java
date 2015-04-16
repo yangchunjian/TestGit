@@ -5,6 +5,26 @@ public class IP {
 	private String ip2;
 	private String ip3;
 	private String ip4;
+	private String ip;
+	public string getIp () {
+		return ip;
+	}
+	public void setIp (String ip) {
+		this.ip = ip;
+	}
+	public String getIp1() {
+		return ip1;
+	}
+	public void setIp1(String ip1) {
+		this.ip1 = ip1;
+	}
+	
+	public String getIp1() {
+		return ip1;
+	}
+	public void setIp1(String ip1) {
+		this.ip1 = ip1;
+	}
 	public String getIp1() {
 		return ip1;
 	}
